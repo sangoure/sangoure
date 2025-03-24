@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Je suis **Slim**, un développeur passionné par la technologie et la programmation.</h2>
 
 ###
 
